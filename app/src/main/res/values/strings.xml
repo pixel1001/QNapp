@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">QNapp</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="mnu_entradas">Entradas</string>
+    <string name="mnu_salidas">Salidas</string>
+    <string name="etxt_entradas">Entradas</string>
+    <string name="etxt_salidas">Salidas</string>
+    <string name="etxt_saldo">Saldo :</string>
+    <string name="title_activity_entradas">Entradas</string>
+    <string name="title_activity_salidas">Salidas</string>
+
+    <string name="etxt_importeentrada">Importe :</string>
+    <string name="etxt_tipoentrada">Tipo :</string>
+    <string name="etxt_fechaentrada">Fecha :</string>
+
+
+    <string name="etxt_importesalida">Importe :</string>
+    <string name="etxt_tiposalida">Tipo :</string>
+    <string name="etxt_modosalida">Modo :</string>
+    <string name="etxt_fechasalida">Fecha :</string>
+
+    <string-array name="array_tipoentrada">
+        <item>Quincena</item>
+        <item>Viaticos</item>
+        <item>Donacion :P</item>
+        <item>Otros</item>
+    </string-array>
+
+    <string-array name="array_modosalida">
+        <item>Efectivo</item>
+        <item>Tarjeta Credito</item>
+        <item>Tarjeta Debito</item>
+    </string-array>
+
+</resources>
