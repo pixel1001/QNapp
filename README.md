@@ -1,0 +1,3 @@
+# QNapp
+QNapp 1.0 - Lina
+Applicación para el manejo de los gastos...
